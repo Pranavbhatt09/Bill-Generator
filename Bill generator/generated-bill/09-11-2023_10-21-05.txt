@@ -1,0 +1,5 @@
+Bill Date and Time: 2023-09-11 10:21:05.360604
+fruits: $250.00
+vegetable\: $960.00
+groceries: $540.00
+Total Price: $1750.00

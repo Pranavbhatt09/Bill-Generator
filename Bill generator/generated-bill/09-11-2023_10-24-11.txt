@@ -1,0 +1,5 @@
+Bill Date and Time: 2023-09-11 10:24:11.140562
+nfash: ₹34.00
+fdmb: ₹34.00
+jhj: ₹2345.00
+Total Price: ₹2413.00
